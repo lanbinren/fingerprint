@@ -1,2 +1,1 @@
-# -
-指纹移植
+fingerprint
